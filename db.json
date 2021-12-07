@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Tonkotsu Ramen",
+      "restaurant": "Maru Ramen",
+      "image": "https://fastly.4sqi.net/img/general/600x600/558550404_d97zmWxN02FZTQoI22gnp7l0E0y8oNLrpBFQFpOchnY.jpg",
+      "rating": "7",
+      "comment": "My go-to favorite!",
+      "id": 6
     }
   ]
 }
